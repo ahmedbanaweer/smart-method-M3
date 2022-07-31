@@ -14,7 +14,7 @@ https://smartmethods-3.000webhostapp.com/getNewValue.php?sensor=301
 <br />
 <br />
 ثانيا يمكننا عرض القيم التي تم حفظها عن طريق الرابط التالي :
-https://fadaaq99.github.io/Smart-Methods-Week4/
+https://ahmedbanaweer.github.io/smart-method-M3/
 <br />
 # شرح للمهمه كاملة
 الجزء الاول من المهمه:
@@ -22,7 +22,7 @@ https://fadaaq99.github.io/Smart-Methods-Week4/
 <br />
 قمنا بسحب قيم الحساس عن طريق GET 
 <br />
-![image](https://user-images.githubusercontent.com/110176361/181617733-bbfd0453-8a1f-46e3-8b08-747810f14b46.png)
+![image](https://user-images.githubusercontent.com/109174615/182038331-7807e541-7c86-480f-8885-016cadc59fba.png)
 <br />
 <br />
 الجزء الثاني من المهمه:
@@ -40,13 +40,13 @@ https://fadaaq99.github.io/Smart-Methods-Week4/
 الجزء الثالث من المهمه:
 
 تخزين قيم الحساس في قاعدة البيانات عن طريق الرابط التالي:
-https://smartmethods-3.000webhostapp.com/getValue.php?sensor= + "قيمة الحساس "
+https://smartmethods-3.000webhostapp.com/getNewValue.php?sensor= + "قيمة الحساس "
 <br />
 <br />
 مثال :
 <br />
 <br />
-https://smartmethods-3.000webhostapp.com/getValue.php?sensor=1001
+https://smartmethods-3.000webhostapp.com/getNewValue.php?sensor=709
 <br />
 <br />
 
